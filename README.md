@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Karthikkharvi05
-- 👀 I’m interested in software job
-- 🌱 I’m currently learning bachelor's of computer application 
+- 👋 Hi, I’m 
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
